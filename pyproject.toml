@@ -1,0 +1,8 @@
+[project]
+name = "asset-ops"
+version = "0.1.0"
+description = "Full-stack asset operations portal sample environment"
+requires-python = ">=3.12"
+
+[tool.unittest]
+testpaths = ["tests"]
